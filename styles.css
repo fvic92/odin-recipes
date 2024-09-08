@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: white;
+    color: grey;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2, h3 {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+p {
+    font-size: medium;
+    text-align: left;
+}
+
+ul, ol {
+    font-size: medium;
+    text-align: left;
+    line-height: 1.5;
+}
